@@ -16,7 +16,7 @@ Join our [community slack!](bit.ly/NRslack) 🤖
 
 New Relic [Student Edition](https://developer.newrelic.com/students/) 😎
 
-Futurestack [CFP](https://web.cvent.com/event/cb0816b2-21d0-4aba-8dd4-021c83deb937/summary) is open!
+[FutureStack2022](bit.ly/futurestack2022) registration is open!
 
 
 Give us a follow on Twitter: [@LaunchiesShow](https://twitter.com/LaunchiesShow)
